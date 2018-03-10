@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=x
+comment1.target=void\ modificaPrimitiva(int)
+comment2.params=p
+comment2.target=void\ modificaObiect(Punct)
+numComments=3

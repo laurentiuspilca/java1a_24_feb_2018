@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Punct
+comment1.params=x\ y
+comment1.target=Punct(double,\ double)
+comment2.params=p
+comment2.target=double\ calculeazaDistanta(Punct)
+comment3.params=p
+comment3.target=double\ calculeazaDistanta2(Punct)
+numComments=4
