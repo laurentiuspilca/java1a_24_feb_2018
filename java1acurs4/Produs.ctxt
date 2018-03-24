@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Produs
+comment1.params=nume
+comment1.target=void\ setNume(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNume()
+comment3.params=pret
+comment3.target=void\ setPret(double)
+comment4.params=
+comment4.target=double\ getPret()
+comment5.params=expirat
+comment5.target=void\ setExpirat(boolean)
+comment6.params=
+comment6.target=boolean\ isExpirat()
+numComments=7

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Poligon
+comment1.params=puncte
+comment1.target=Poligon(Punct[])
+comment2.params=
+comment2.target=Punct[]\ getPuncte()
+comment3.params=puncte
+comment3.target=Punct[]\ copyPuncte(Punct[])
+numComments=4
