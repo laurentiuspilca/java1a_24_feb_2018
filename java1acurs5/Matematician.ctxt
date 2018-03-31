@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Matematician
+comment1.params=o\ x\ y
+comment1.target=int\ calculeaza(Operatie,\ int,\ int)
+numComments=2
