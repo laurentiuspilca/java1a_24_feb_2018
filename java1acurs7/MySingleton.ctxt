@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MySingleton
+comment1.params=
+comment1.target=MySingleton()
+comment2.params=
+comment2.target=MySingleton\ getInstance()
+numComments=3
