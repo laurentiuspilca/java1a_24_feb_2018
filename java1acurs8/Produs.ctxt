@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Produs
+comment1.params=nume
+comment1.target=Produs(java.lang.String)
+comment2.params=nume\ pret
+comment2.target=Produs(java.lang.String,\ double)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=o
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=int\ hashCode()
+numComments=6

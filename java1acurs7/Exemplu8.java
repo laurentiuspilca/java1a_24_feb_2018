@@ -5,7 +5,7 @@ public class Exemplu8 {
         
         String a;
         for (int i=0; i<cuv.length-1; i++) {
-            for (int j = i; j<cuv.length; j++) {
+            for (int j = i + 1; j<cuv.length; j++) {
                 if (cuv[i].compareTo(cuv[j]) > 0) {
                     a = cuv[i];
                     cuv[i] = cuv[j];
