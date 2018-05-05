@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Horror
+comment1.params=nume\ durata\ varstaMin
+comment1.target=Horror(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
